@@ -10,7 +10,7 @@ See [Building on Linux](../../wiki/Building-on-Linux) on repo's wiki.
 
 ## Building on Windows
 
-* Download MSYS2-64 and install
+* Download MSYS64 https://www.msys2.org/ and install
 * pacman -Syuu
 * pacmam -Su
 * Open mingw64 and browse to this cloned repo
